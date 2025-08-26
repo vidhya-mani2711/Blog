@@ -16,7 +16,7 @@ function Home() {
             <div className="m-10">
                 <div className="text-4xl font-bold py-2">
                     <h1 >Hy! I Am </h1>
-                    <h1 className="text-red-500 py-2">Kani</h1>
+                    <h1 className="text-red-500 py-2">Vidhya</h1>
                 </div>
 
                 <p className="w-6/12 py-1">I can create stunning website for your company,Do  check my works.
